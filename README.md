@@ -7,4 +7,6 @@
 - Exibe mensagens personalizadas para acerto ou erro.
 - Utiliza console.log para auxiliar na depuração.
 
+## Mensagem que aparece se o usuário acertar o número secreto:
+
 ![image](https://github.com/user-attachments/assets/c4d16f0b-1b15-4e0b-baaa-37cae04c80f5)
